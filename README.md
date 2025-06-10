@@ -1,3 +1,3 @@
 ﻿# control-gastos
- Link: gleeful-kangaroo-8d8f42.netlify.app
+ URL: gleeful-kangaroo-8d8f42.netlify.app
  
